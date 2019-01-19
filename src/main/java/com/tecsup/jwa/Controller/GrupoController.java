@@ -15,7 +15,7 @@ import com.tecsup.jwa.Sesion04.modelo.*;
 @Controller
 @RequestMapping("/grupo")
 public class GrupoController {
-
+//spring-mvc-showcase
 	private static final Logger logger = LoggerFactory.getLogger(GrupoController.class);
 //https://github.com/jgomezm-tecsup/JavaWebAvanzado-Sesion04-SpringMVC-CRUD/tree/master/src/test/resources
 	
