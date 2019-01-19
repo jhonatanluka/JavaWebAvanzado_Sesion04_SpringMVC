@@ -1,4 +1,4 @@
-package com.tecsup.jwa;
+package com.tecsup.jwa.Controller;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -20,7 +20,7 @@ public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
-	/**
+	/**  
 	 * Simply selects the home view to render by returning its name.
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
